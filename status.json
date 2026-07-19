@@ -1,0 +1,17 @@
+{
+  "updated": "2026-08-03T07:10:02Z",
+  "status": "OK",
+  "problems": "",
+  "watcher": { "running": true, "pid": 1087, "uptime_s": 512 },
+  "chromium": 9,
+  "openbox": true,
+  "memory": { "avail_mb": 317, "min_today_mb": 129 },
+  "thermal": { "temp_c": 47.2, "max_today_c": 55.8, "throttled": "0x0", "throttling_now": false },
+  "ntfy": { "sent": 36, "limit": 250, "remaining": 214 },
+  "events": {
+    "last_gaa": "2026-08-03T07:08:56.580Z",
+    "last_channel_load": "2026-08-03T07:04:07.678Z",
+    "last_recover": "2026-08-03T06:56:29.435Z",
+    "crashes_today": 33
+  }
+}
